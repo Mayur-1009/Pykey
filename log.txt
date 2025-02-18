@@ -1,0 +1,1 @@
+Key.caps_lockMAYUR  MCJSBC \x03Key.caps_lock \x03
